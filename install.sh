@@ -25,7 +25,7 @@ chmod u+x /usr/local/bin/wings
 
 echo "Adding wings Service"
 
-curl -L -o /etc/systemd/system/ https://raw.github.com/
+curl -L -o /etc/systemd/system/ "https://raw.githubusercontent.com/HeyKuxo/pterodactyl-install/main/wings.service"
 
 echo "Enabling wings on boot"
 
