@@ -6,4 +6,6 @@ Installs Dependacies and wings agent for a Peterodactyl node.
 
 Run the follwing oneliner as root
 
-`curl https://raw.githubusercontent.com/HeyKuxo/pterodactyl-install/main/install.sh | bash `
+```
+curl https://raw.githubusercontent.com/HeyKuxo/pterodactyl-install/main/install.sh | bash
+```
